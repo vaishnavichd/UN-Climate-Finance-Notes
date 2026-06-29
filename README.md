@@ -25,17 +25,16 @@ Tracking my progress and notes for the UN CC:Learn Sustainable Finance Taxonomie
 ### 🗓️ June 29, 2026
 * **Module:** Module 2: Taxonomies in Practice: The EU and China
 
-Module 2 applies the theoretical concepts presented in Module 1 to real-life applications in the EU and China. Two in-depth case studies feature the core components, differences and similarities of the EU Taxonomy and Chinese Taxonomy, including the selection of objectives, sectors, economic activities and determinants of taxonomy alignment.
+#### 🔍 Core Concepts Learned:
+* **The EU Framework:** Driven by investor disclosure rules using strict, science-based Technical Screening Criteria (TSC) and mandatory "Do No Significant Harm" (DNSH) safeguard testing.
+* **The China Framework:** Driven by state industrial policy using the Green Bond Endorsed Project Catalogue, which operates as a direct "Whitelist" for instant project eligibility.
+* **Policy Channels:** The EU embeds its taxonomy into corporate transparency laws, while China links its framework to central bank incentives and commercial bank credit tools.
+* **Interoperability Bridge:** The Common Ground Taxonomy (CGT) acts as a technical mapping tool to find overlapping green criteria between both regions for cross-border investments.
 
-### 🎯 Learning Objectives
-By the end of this module, you should be able to:
-* Describe the objectives, determinants of taxonomy alignment, and scope of the EU Taxonomy and Chinese Taxonomy.
-* Explain the application of technical screening criteria (TSC), whitelists, and the do no significant harm (DNSH) principle.
-* Compare how the EU and Chinese taxonomies are linked to sustainable finance policies in their respective jurisdictions.
-* Compare the key differences and similarities of the EU Taxonomy and Chinese Taxonomy.
+#### 💡 Key Takeaway:
+While the EU relies on a threshold-based disclosure system to enforce pure-green market transparency, China uses a project-based whitelist system to accelerate state-led transition finance and direct industrial upgrades.
 
-### 📝 Lecture Notes & Key Takeaways
-*(Type your personal study notes and thoughts here as you watch the module videos today!)*
+
 - 
 - 
 - 
