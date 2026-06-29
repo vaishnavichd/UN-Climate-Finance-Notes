@@ -15,4 +15,5 @@ I completed this practice-oriented e-course to master the fundamentals of classi
 
 ## 📜 Verification
 My official certificate of completion is stored in this repository. 
-* [Click here to view my Certificate of Completion](./certificate.pdf)
+* [View Certificate Document](./Intro_to_Sustainable_Finance_Taxonomies.pdf)
+
