@@ -1,19 +1,37 @@
-# Course Completion: Introduction to Sustainable Finance Taxonomies
+# UN CC:Learn Certifications Portfolio
 
-I completed this practice-oriented e-course to master the fundamentals of classification systems used to define and scale up sustainable investments globally.
+A collection of professional certifications and key skills acquired through the UN CC:Learn platform, focusing on climate change and sustainable finance.
 
-## 📊 Course Overview
+---
+
+## 1. Introduction to Sustainable Finance Taxonomies
+I completed this course to master the classification systems used to define, verify, and scale up sustainable investments globally.
+
 * **Provider:** UN CC:Learn (Developed by GIZ & SBFN)
-* **Status:** Completed
-* **Completion Date:** June 2026
+* **Status:** Completed (June 2026)
 
-## 🧠 Key Skills Acquired
+### 🧠 Key Skills Acquired
 * **Taxonomy Core Elements:** Understanding classification logic, greenwashing prevention, and market transparency tools.
-* **Global Frameworks:** Analyzing real-world case studies and application models from the EU, China, Colombia, and South Africa.
+* **Global Frameworks:** Analyzing application models from the EU, China, Colombia, and South Africa.
 * **Development Principles:** Best practices for building locally applicable yet globally interoperable sustainable taxonomies.
-* **Policy Application:** Insights into how regulators, central banks, and capital market authorities deploy taxonomy frameworks.
 
-## 📜 Verification
-My official certificate of completion is stored in this repository. 
-* [View Certificate Document](./Intro_to_Sustainable_Finance_Taxonomies.pdf)
+### 📜 Verification
+* [View Sustainable Finance Taxonomy Certificate](./Intro_to_Sustainable_Finance_Taxonomies.pdf)
 
+---
+
+
+
+## 2. Climate Change International Legal Regime
+I completed this course to understand the legal frameworks, treaties, and international cooperation mechanisms driving global climate action.
+
+* **Provider:** UN CC:Learn (United Nations Institute for Training and Research - UNITAR)
+* **Status:** Completed (June 2026)
+
+### 🧠 Key Skills Acquired
+* **UNFCCC Framework:** Navigating the United Nations Framework Convention on Climate Change.
+* **Kyoto Protocol & Paris Agreement:** Understanding legal obligations, Nationally Determined Contributions (NDCs), and global compliance.
+* **Climate Litigation & Policy:** Analyzing how international climate law translates into national regulatory frameworks.
+
+### 📜 Verification
+* [View Climate Change Legal Regime Certificate](./Climate_Change_Legal_Regime.pdf)
