@@ -34,4 +34,4 @@ I completed this course to understand the legal frameworks, treaties, and intern
 * **Climate Litigation & Policy:** Analyzing how international climate law translates into national regulatory frameworks.
 
 ### 📜 Verification
-* [View Climate Change Legal Regime Certificate](./Climate_Change_Legal_Regime.pdf)
+* [View Climate Change Legal Regime Certificate](./Climate_Change_International_Legal_Regime.pdf)
